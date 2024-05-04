@@ -1,0 +1,21 @@
+topic_id,0,1,2,3,4,5,6,label,doc_weight_sum,doc_weight_mean
+0,broom,match,field,team,crowd,goal,stands,00 broom match field team crowd goal stands,1.8704281530069333,0.009844358700036492
+1,field,goblin,eyes,room,wizards,veela,time,01 field goblin eyes room wizards veela time,3.4646344710054584,0.018234918268449783
+2,time,door,voice,eyes,face,hand,way,02 time door voice eyes face hand way,56.03092455569232,0.2948996029246964
+3,time,hand,room,people,voice,yes,look,03 time hand room people voice yes look,7.792064957689841,0.041010868198367585
+4,room,time,car,face,memory,hand,house,04 room time car face memory hand house,6.1694387615239785,0.03247073032381041
+5,robes,book,train,family,death,friend,time,05 robes book train family death friend time,1.5623112841904254,0.008222690969423291
+6,tent,wand,time,sword,face,right,way,06 tent wand time sword face right way,3.24541748050729,0.017081144634248896
+7,wand,news,time,boy,head,night,eyes,07 wand news time boy head night eyes,1.4412216233939108,0.00758537696523111
+8,wand,eyes,voice,time,water,face,hand,08 wand eyes voice time water face hand,13.207791707846306,0.06951469319919108
+9,police,trepidation,blinding,cords,suits,hanging,sat,09 police trepidation blinding cords suits hanging sat,0.012152847188709844,6.396235362478865e-05
+10,house,wont,room,number,wand,time,glasses,10 house wont room number wand time glasses,0.9567740929978967,0.0050356531210415615
+11,father,wand,master,eyes,face,wizards,elf,11 father wand master eyes face wizards elf,2.820416956401415,0.014844299770533764
+12,time,kitchen,wand,sidecar,bike,table,way,12 time kitchen wand sidecar bike table way,3.2305959422317785,0.017003136538061993
+13,students,table,head,door,eyes,voice,way,13 students table head door eyes voice way,8.435757726190342,0.04439872487468601
+14,time,way,room,voice,head,face,ter,14 time way room voice head face ter,11.120252139675154,0.05852764284039555
+15,eyes,door,time,room,face,head,wand,15 eyes door time room face head wand,27.756669985222082,0.14608773676432674
+16,door,dementors,time,castle,hippogriff,moment,head,16 door dementors time castle hippogriff moment head,1.3220332555240366,0.006958069765915982
+17,class,voice,time,room,eyes,people,face,17 class voice time room eyes people face,21.94172023524389,0.11548273808023099
+18,wand,eyes,face,hand,voice,head,way,18 wand eyes face hand voice head way,14.229661001559936,0.07489295263978914
+19,wand,eyes,voice,centaurs,head,sword,trees,19 wand eyes voice centaurs head sword trees,3.3897328229083064,0.017840699067938455
